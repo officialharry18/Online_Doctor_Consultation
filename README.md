@@ -4,7 +4,8 @@ This project is part of my Software Engineering course's final project in my 3rd
 
 ## Created by
 
-    Hariom
+    Hariom Gupta 
+    Anuj Tiwari 
 
 ## Functionality
 
