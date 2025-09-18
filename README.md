@@ -4,9 +4,7 @@ This project is part of my Software Engineering course's final project in my 3rd
 
 ## Created by
 
-    Kittipol Neamprasertpon
-    Chayaphon Bunyakan
-    Pirada Amornprapawat
+    Hariom
 
 ## Functionality
 
